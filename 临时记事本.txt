@@ -1,0 +1,5 @@
+﻿Svn地址
+?	产品原型地址: svn://luojianting@172.16.10.43/doc/01 产品
+?	webs地址：svn://luojianting@172.16.10.43/doc/02 Java开发
+?	Android项目地址：svn://luojianting@172.16.10.43/android
+?	UI地址：svn://luojianting@172.16.10.43/operation
